@@ -8,7 +8,7 @@ public class DBConnection {
 
 	private final static String login = "root";
 	private final static String password = "";
-	private final static String url = "jdbc:mysql://localhost:3306/test";
+	private final static String url = "jdbc:mysql://localhost:3306/gadgetbadget_clientside";
 	private static DBConnection instance = null;
 	private Connection connection = null;
 
