@@ -24,7 +24,7 @@
 <script src="js/jquery.min.js" type="text/javascript"></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Hospital Management System</title>
+<title>GadgetBadget </title>
 </head>
 <body>
 <div class="container">
@@ -32,7 +32,7 @@
                     <hr>
 <div>
 <figure>
-<a href="Customer.jsp"><img src="img/customer.png" class="rounded float-left m-5" alt="customer" width="32%"></a>
+<a href="Customer.jsp"><img src="img/customer.png" class="rounded float-left m-5" alt="customer" width="35%"></a>
 <figcaption></figcaption>
 </figure>
 
