@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="Views/bootstrap.min.css"> 
 <link rel="stylesheet" type="text/css" href="css\footer.css"> 
-<script src="components/jquery-3.2.1.min.js"></script>
+<script src="components/jquery-3.6.0.js"></script>
 <script src="components/pay.js"></script>
 
 
