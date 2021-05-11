@@ -38,7 +38,6 @@ https://github.com/kulanaavinash/GadgetBadget-ClientSide/blob/main/Database/gadg
 ![](UI/payment Management.png)
 
 <h1>Customer Management</h1>
-t
-![](UI/Customer Management.png)   
 
+![](UI/Customer Management.png)   
 
