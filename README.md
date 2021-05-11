@@ -1,6 +1,6 @@
 # GadgetBadget Clientside 
 
-# About our project?
+# About my project?
 My project is based on a company who funds the inventors to build their precious products and also help them to sell the products in companies online platform.I have implemented 3 functions in this system and they are customer function, payment function and login function.
 
 
