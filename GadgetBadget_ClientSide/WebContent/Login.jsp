@@ -61,7 +61,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify">Avinash W.V.K <i> </i> This project is based on a company named “Gadget Badget (GB) who funds inventors and motivate them by letting them sell their products in the companies online platform. My task was to create the online platform covering the whole scope of the company. I used java , tomcat , mysql and JAX-RS Restful webservice as our tools to create our platform..</p>
+            <p class="text-justify">Avinash W.V.K <i> </i> This project is based on a company named Gadget Badget (GB) who funds inventors and motivate them by letting them sell their products in the companies online platform. My task was to create the online platform covering the whole scope of the company. I used java , tomcat , mysql and JAX-RS Restful webservice as our tools to create our platform..</p>
           </div>
 
           <div class="col-xs-6 col-md-3">
