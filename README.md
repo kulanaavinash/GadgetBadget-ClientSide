@@ -5,7 +5,11 @@ My project is based on a company who funds the inventors to build their precious
 
 
 #  The technologies we used were
-java JAX-RS(jersy) Restful web service on Apache  Tomcat  mysql as the database and eclipse as the IDE.
+-  java JAX-RS(jersy) Restful web service  
+-  Apache  Tomcat  
+-  mysql as the database 
+-  eclipse IDE.
+
 
 
 # How to execute the project?
